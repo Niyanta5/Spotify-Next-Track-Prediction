@@ -1,0 +1,11 @@
+# Ignore common file types like PDFs, ZIP files, etc.
+*.zip
+*.pdf
+*.pptx
+*~
+*.bak
+.DS_Store
+.ipynb_checkpoints/
+*.docx
+*.png
+*.csv
