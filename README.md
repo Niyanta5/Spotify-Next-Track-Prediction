@@ -6,7 +6,6 @@ This project aims to develop a **Next Track Recommender System** for music strea
 
 The data preprocessing pipeline 🧹 involves cleaning text columns like track and artist names, followed by feature engineering 🛠️ to generate embeddings using **TF-IDF**, **BERT**, and **DistilBERT**. Sentiment analysis 💬 is applied to capture the emotional tone of the playlists 💖. Models are developed to predict the next track based on various features: **KNN** uses content-based filtering 🎶, **BERT** captures semantic context in track names 📝, and **XGBoost** handles numerical and categorical features 📊. The performance is evaluated through **AUC** and cosine similarity scores 📈.
 
-![Poster_Spotify](https://github.com/Niyanta5/Spotify-Next-Track-Prediction/blob/main/reports/Poster_Spotify.jpg?raw=true)
 
 ## 🔍 Key Insights
 
